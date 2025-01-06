@@ -1,6 +1,6 @@
 # Connection-App
 
-**Newsgram** is a web application where user can register themselves and make other registered users as their friends. It includes a server-side component that handles accepting,rejecting and suggesting friends  and integrates caching using Redis to enhance performance.
+**Connection App** is a web application where user can register themselves and make other registered users as their friends. It includes a server-side component that handles accepting,rejecting and suggesting friends  and integrates caching using Redis to enhance performance.
 ## Features
 
 - **User Authentication:** Authentication has been implemented using JWT tokens .
